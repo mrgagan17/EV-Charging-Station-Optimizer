@@ -63,12 +63,3 @@ It completely removes the guesswork from urban planning, replacing it with data-
 4. **Geocoding:** The raw float values (e.g., `12.9716, 77.5946`) of the centroids are passed to the Nominatim API, which returns the nearest real-world physical address for construction teams.
 
 ---
-
-## 💻 Installation & Local Setup
-
-To run this project locally, you need Python 3.8+ installed on your machine.
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YOUR-USERNAME/bengaluru-ev-optimizer.git](https://github.com/YOUR-USERNAME/bengaluru-ev-optimizer.git)
-cd bengaluru-ev-optimizer
