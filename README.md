@@ -24,9 +24,6 @@ It completely removes the guesswork from urban planning, replacing it with data-
     <li><a href="#-key-features">Key Features</a></li>
     <li><a href="#-tech-stack">Tech Stack</a></li>
     <li><a href="#-how-it-works-under-the-hood">How It Works</a></li>
-    <li><a href="#-installation--local-setup">Installation</a></li>
-    <li><a href="#-usage-guide">Usage Guide</a></li>
-    <li><a href="#-future-roadmap">Future Roadmap</a></li>
   </ol>
 </details>
 
